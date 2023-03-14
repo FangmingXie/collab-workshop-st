@@ -7,4 +7,4 @@ UCLA QCBio col-laboratory workshop W31: spatial transcriptomics
 
 ## Data
 [Here](https://drive.google.com/file/d/1zUHtd171abXdFfrVIsdzq2_R92jpIoQr/view?usp=sharing
-) you can download the data used in the workbooks. It is adapted from Vizgen Data Release V1.0. May 2021.
+) you can download the data for the workshop. It is adapted from Vizgen Data Release V1.0. May 2021.
