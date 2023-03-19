@@ -9,3 +9,7 @@ Data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 
 
 Post your results in this shared Google Slides in class: 
 [Here](https://docs.google.com/presentation/d/1BJO6ZToXpIzHMMmAR_KNxkT_eZfUxVDnEAvDalDcbEo/edit?usp=sharing)
+
+Slides for this class is under the directory `/slides`.
+
+
