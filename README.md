@@ -11,7 +11,7 @@ UCLA QCBio col-laboratory workshop W31: spatial transcriptomics
 Post your results in this shared Google Slides in class: 
 [Here](https://docs.google.com/presentation/d/1BJO6ZToXpIzHMMmAR_KNxkT_eZfUxVDnEAvDalDcbEo/edit?usp=sharing)
 
-Slides for this class is under the directory `slides/`.
+Slides for this class (when it was offered last time) is under the directory `slides/`.
 
 Some of the data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 2021, and is under the directory `data/`. Some other data needs to be download mannually from [Vizgen](https://info.vizgen.com/mouse-brain-map).
 
