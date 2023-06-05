@@ -4,6 +4,8 @@ UCLA QCBio col-laboratory workshop W31: spatial transcriptomics
 ### Workbooks for coding exercises
 - `workbook/exercise1.ipynb`
 - `workbook/exercise2-5.ipynb`
+- `workbook/exercise6.ipynb`
+
 
 
 Post your results in this shared Google Slides in class: 
@@ -11,6 +13,6 @@ Post your results in this shared Google Slides in class:
 
 Slides for this class is under the directory `slides/`.
 
-Data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 2021, and is under the directory `data/`
+Some of the data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 2021, and is under the directory `data/`. Some other data needs to be download mannually from [Vizgen](https://info.vizgen.com/mouse-brain-map).
 
 
