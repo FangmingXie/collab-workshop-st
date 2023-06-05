@@ -13,6 +13,6 @@ Post your results in this shared Google Slides in class:
 
 Slides for this class (when it was offered last time) is under the directory `slides/`.
 
-Some of the data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 2021, and is under the directory `data/`. Some other data needs to be download mannually from [Vizgen](https://info.vizgen.com/mouse-brain-map).
+Some of the data used in the coding exercise was adapted from Vizgen Data Release V1.0. May 2021, and is under the directory `data/`. Some other data needs to be downloaded mannually from [Vizgen](https://info.vizgen.com/mouse-brain-map).
 
 
