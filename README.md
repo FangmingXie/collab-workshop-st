@@ -3,7 +3,8 @@ UCLA QCBio col-laboratory workshop W31: spatial transcriptomics
 
 ### Workbooks for coding exercises
 - `workbook/exercise1.ipynb`
-- `workbook/exercise2-5.ipynb`
+- `workbook/exercise2-3.ipynb`
+- `workbook/exercise4-5.ipynb`
 - `workbook/exercise6.ipynb`
 
 
